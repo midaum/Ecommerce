@@ -1,0 +1,5 @@
+D:\profiles\micdaum\source\repos\ECommerce\DomainLayer\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\profiles\micdaum\source\repos\ECommerce\DomainLayer\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\profiles\micdaum\source\repos\ECommerce\DomainLayer\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\profiles\micdaum\source\repos\ECommerce\DomainLayer\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\profiles\micdaum\source\repos\ECommerce\DomainLayer\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
